@@ -1,0 +1,27 @@
+[
+  {
+    "action": "getHistoricData",
+    "created_at": 1568041517,
+    "context": {
+      "base": "AUD",
+      "symbols": ["HKD","CZK","NOK","CAD"],
+      "date": "1999-06-06"
+    }
+  },
+  {
+    "action": "getCurrent",
+    "created_at": 1568041517,
+    "context": {
+      "base": "AUD",
+      "symbols": ["USD", "GBP"]
+    }
+  },
+  {
+    "action": "getlik",
+    "created_at": 1568041517,
+    "context": {
+      "base": "AUD",
+      "symbols": ["USD", "GBP"]
+    }
+  }
+]
